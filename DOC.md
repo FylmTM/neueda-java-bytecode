@@ -32,3 +32,8 @@ Object creation —
 - Partially constructed objects или почему в конструкторе нужно сетать final поля. Тут можно сделать jcstress тест, чтобы показать, какие могут быть проблемы.
 - С дженериками, показать, что всё компилируется в огромную кучу тайп кастов в байт коде и вот так оно и работает
 - Инициализация инстанса и статическая инициализация в байткоде, порядок исполнения (что вызывается раньше — код обычного конструктора, или инициализация)
+
+javap -v target.classes.lv.neueda.bytecode.playground.DuckPlay | less
+
+http://arhipov.blogspot.se/2011/01/java-bytecode-fundamentals.html
+http://blog.jamesdbloom.com/JavaCodeToByteCode_PartOne.html

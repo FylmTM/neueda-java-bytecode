@@ -19,3 +19,4 @@ Also you will have to compile hsdis library. Instructions for windows may be fou
 
 
 As for jcstress, you will have to build it youselves – http://openjdk.java.net/projects/code-tools/jcstress/
+
