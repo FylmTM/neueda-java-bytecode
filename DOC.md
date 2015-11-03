@@ -24,9 +24,8 @@ http://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf - official JVM spec
 
 http://shipilev.net/ - a great source of information, which might be useful while preparing
 
----------
+Object creation:
 
-Object creation — 
 - Как конкретно происходит инстанциирование (тут просто показать, что кладем на стек, вызываем invokesuper, собираем со стека штуку, вызываем new)
 - Почему вызов super или другого конструктора этого-же класса должны быть первыми вызовами в конструкторе. Это обосновано байт-кодом, можешь показать как оно компилится и объяснить зачем так надо.
 - Partially constructed objects или почему в конструкторе нужно сетать final поля. Тут можно сделать jcstress тест, чтобы показать, какие могут быть проблемы.

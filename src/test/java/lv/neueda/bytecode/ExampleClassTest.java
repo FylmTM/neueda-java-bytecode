@@ -5,6 +5,8 @@ import org.testng.annotations.Test;
 
 import static org.assertj.core.api.Assertions.*;
 
+import lv.neueda.bytecode.bench.ExampleClass;
+
 public class ExampleClassTest {
 
     ExampleClass exampleClass;

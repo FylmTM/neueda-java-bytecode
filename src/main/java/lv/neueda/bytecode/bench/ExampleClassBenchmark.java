@@ -1,4 +1,4 @@
-package lv.neueda.bytecode;
+package lv.neueda.bytecode.bench;
 
 import org.openjdk.jmh.annotations.Benchmark;
 import org.openjdk.jmh.annotations.BenchmarkMode;

@@ -1,4 +1,4 @@
-package lv.neueda.bytecode;
+package lv.neueda.bytecode.bench;
 
 public class ExampleClass {
 
