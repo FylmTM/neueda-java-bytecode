@@ -34,5 +34,10 @@ Object creation:
 
 javap -v target.classes.lv.neueda.bytecode.playground.DuckPlay | less
 
+https://en.wikipedia.org/wiki/Java_bytecode_instruction_listings
+
 http://arhipov.blogspot.se/2011/01/java-bytecode-fundamentals.html
+
+http://zeroturnaround.com/rebellabs/java-bytecode-fundamentals-using-objects-and-calling-methods/
+
 http://blog.jamesdbloom.com/JavaCodeToByteCode_PartOne.html
