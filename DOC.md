@@ -41,3 +41,5 @@ http://arhipov.blogspot.se/2011/01/java-bytecode-fundamentals.html
 http://zeroturnaround.com/rebellabs/java-bytecode-fundamentals-using-objects-and-calling-methods/
 
 http://blog.jamesdbloom.com/JavaCodeToByteCode_PartOne.html
+
+http://nitschinger.at/Debugging-Concurrency-Issues-with-Open-JDK-Jcstress
